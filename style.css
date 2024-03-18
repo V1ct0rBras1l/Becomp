@@ -1,0 +1,28 @@
+.container {
+background-color: blue;
+border: 2px splid black;
+padding: 15px;
+max-width: 1300px;
+height: 400px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+}
+.a { 
+background-color: rgb(192, 30, 157);
+border: 5px splid rgb(218, 211, 211);
+height: 350px;
+width: 350px;
+}
+.text {
+    background-color: blue;
+    border: 2px splid black;
+    height: 20px;
+    width: 1251px;
+    padding: 29px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
